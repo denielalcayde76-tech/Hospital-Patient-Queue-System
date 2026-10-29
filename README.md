@@ -25,3 +25,13 @@ Main Objectives
 5. To enable hospital staff and medical personnel to manage records, monitor queues, call the next patient, and update treatment statuses. 
 6. To provide an efficient and user-friendly system interface that displays real-time queue statuses and reduces patient waiting times. 
 Expected Output The finished program should allow users to register and log in based on their roles, input patient data, route patients to either the FIFO standard queue or Max-Heap emergency queue, track real-time statuses, and display updated patient service details. It will demonstrate how a FIFO queue and a Max-Heap data structure can be applied to a practical hospital management system while maintaining efficient data organization, fair queuing, and prompt emergency response.
+
+
+
+Brucal, Neil Gerard E. (leader)
+Alcayde, Deniel Bert L.
+Alimario, Carl Vincent
+Corporal, Alexandra E.
+Laque, Cassandra E.
+Surigao, Savinna Kassandra
+
